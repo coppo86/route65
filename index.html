@@ -1,12 +1,98 @@
+
+<!DOCTYPE html>
 <html>
-  <h1>Route 65 band website (Still) under development. 29th June 2022. 
-  We are back and working hard. Playing twice a month at the Riverside pub in Ilkley and in between other smaller
-  and bigger (sometimes much!) events in the area. Check facebook for the latest.
-  We're also trying to learn how to do a website but its not as much fun as playing music!
-  Please click the play button at the bottom of the video below to get an idea of what we are about.
-    Andy</h1>
-  <h3>Route 65 are an Ilkley (Yorkshire,UK) based band.</h3>
-  <h3>For bookings, gigs and general info please email the band at
-    info@route65.uk</h3>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/725659576?h=d3d70c20df&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Route 65 covers band Promo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-  </html>
+<head>
+  <script>
+function openPage(pageName, elmnt, color) {
+  // Hide all elements with class="tabcontent" by default */
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Remove the background color of all tablinks/buttons
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+
+  // Show the specific tab content
+  document.getElementById(pageName).style.display = "block";
+
+  // Add the specific color to the button used to open the tab content
+  elmnt.style.backgroundColor = color;
+  console.log("In open page")
+  
+}
+
+// Get the element with id="defaultOpen" and click on it
+  console.log("In head")
+
+</script>
+
+</head>
+
+
+<body background="images/black bricks.jpg">
+
+
+<link rel="stylesheet" rev="stylesheet" href="route65styles.css" type="text/css" media="screen" charset="utf-8" />
+<button class="tablink" onclick="openPage('Home', this, 'red')" id="defaultOpen">Home</button>
+<button class="tablink" onclick="openPage('About', this, 'green')" >About Route 65</button>
+<button class="tablink" onclick="openPage('Calendar', this, 'blue')">Upcoming Gigs</button>
+<button class="tablink" onclick="openPage('Media', this, 'orange')">Media</button>
+<button class="tablink" onclick="openPage('Contact', this, 'orange')">Get in touch</button>
+
+<div id="Home" class="tabcontent">
+  <h3>Route 65</h3>
+  <p>We are a band of six fun loving folk who came together through a love of music - especially sing along, foot tapping sixties stuff when women were real women and music was real music!</p>
+  <p>We met through the University of the Third Age (U3A) and had so much in common we decided to form a band. Route 65 has been going for around 5 years now though we had a bit of an extended enforced break recently</p> 
+  <p>We all live in or around the A65 Ilkley/Menston area of Yorkshire,the inspiration for the band name.</p> 
+  <p>If we ever forget where we live, (Good evening officer!) - the band name serves the dual purpose of helping the emergency services get us home - should that ever be needed. </p>
+  <img src="images/banner18.jpg" alt="The banner" width="100%">
+</div>
+
+<div id="About" class="tabcontent">
+  <h3>About Us</h3>
+<img class="wrap" src="images/band 1.jpg" alt="The band"  width="50%" align=”right” >
+  <p>We are a six piece semi-acoustic band that plays at gigs ranging from community care homes to pub gardens, large outdoor fetes and just about everything in between.</p>
+  <p>We have two different setups depending on the size of event: A small busker amplifier arrangement for the smaller events and a full public address rig for larger spaces and outdoor events.</p>
+  <p>Our main aims are for the audience (and ourselves) to have fun dancing or singing along on a trip down memory lane. Along the way we raise money for charity. </p>
+  <p>Charges: We aim to support charities so don't charge as such - giving 95% of whatever income we have to three main charities. We do accept bribes of tea and cake or occasionally a beer however. For non charity events such as private parties we suggest a minimum donation which we distribute to our preferred charities. We can talk this through if you are looking to book the band. </p>
+</div>
+
+<div id="Calendar" class="tabcontent">
+  <h3>Upcoming gigs</h3>
+  <p>A lot of the public gigs are outdoors so please check before travelling just in case we are rained off! If something is cancelled because of weather or any other reason  we will try and update the calendar on the upcoming gigs page (or message us and ask.)</p>
+  <iframe src="https://outlook.office365.com/calendar/published/bc4d23c2eefa460bab22302f8a4111b8@benrhydding.org.uk/d16ee808773f41d4a5ca3d15f3e42e257596558134926722421/calendar.html" scrolling="no" width="100%" height="100%" frameborder="0"></iframe>
+</div>
+
+<div id="Media" class="tabcontent">
+  <h3>Contact</h3>
+  <p>Here is a taster promo video.</p>
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/725659576?h=d3d70c20df&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Route 65 covers band Promo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
+
+<div id="Contact" class="tabcontent">
+  <h3>Contact Information</h3>
+  <p>Contact Andy on 07808 751605 (also on Whatsapp)</p>
+  <p>Or Alan on 07879 529820, also on Whatsapp.</p>
+  <a href="mailto:info@route65.uk">Click this link to email us</a>
+
+</div>
+
+<script>
+    document.getElementById("defaultOpen").click(); 
+</script>
+
+
+</body>
+
+
+
+
+</html>
+
+
+

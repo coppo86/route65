@@ -1,0 +1,1132 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sour",
+				"sourceInd"
+			],
+			[
+				"this",
+				"thisEntry"
+			],
+			[
+				"time",
+				"timeGapSecs"
+			],
+			[
+				"sys",
+				"sysIds"
+			],
+			[
+				"source",
+				"sourceFriendly"
+			],
+			[
+				"play",
+				"playMode"
+			],
+			[
+				"thie",
+				"thisEntry"
+			],
+			[
+				"get",
+				"getMeta"
+			],
+			[
+				"cur",
+				"curTrack"
+			],
+			[
+				"thing",
+				"thingId"
+			],
+			[
+				"pal",
+				"payloadSeg"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"wiim",
+				"wiimSource"
+			],
+			[
+				"w",
+				"wiimStatus"
+			],
+			[
+				"en",
+				"endMatch"
+			],
+			[
+				"val",
+				"valFound"
+			],
+			[
+				"p",
+				"playerStatus"
+			],
+			[
+				"current",
+				"currentOffset"
+			],
+			[
+				"ch",
+				"charAt"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"Edited",
+				"editedAllNames"
+			],
+			[
+				"the",
+				"thePayload"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"edn",
+				"endIndex"
+			],
+			[
+				"sta",
+				"startIndex"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ip",
+				"ipAddress"
+			],
+			[
+				"sub",
+				"subscribeTime"
+			],
+			[
+				"subscribe",
+				"subscribeTime"
+			],
+			[
+				"common",
+				"commonDebug"
+			],
+			[
+				"max",
+				"maxLoopTime"
+			],
+			[
+				"Thing",
+				"Thing_Editor_WebConfig"
+			],
+			[
+				"th",
+				"thingCt"
+			],
+			[
+				"thin",
+				"thingsEditControl"
+			],
+			[
+				"thigs",
+				"thingsEditControl"
+			],
+			[
+				"deman",
+				"demandTemp"
+			],
+			[
+				"pe",
+				"percentScale"
+			],
+			[
+				"all",
+				"allPossFields"
+			],
+			[
+				"co",
+				"countPercentTypes"
+			],
+			[
+				"temp",
+				"tempReadingRate"
+			],
+			[
+				"message",
+				"messageType"
+			],
+			[
+				"mast",
+				"masterThingId"
+			],
+			[
+				"out",
+				"outsideTemp"
+			],
+			[
+				"for",
+				"forceRefresh"
+			],
+			[
+				"skip",
+				"skipTimeoutCheck"
+			],
+			[
+				"node",
+				"nodeId"
+			],
+			[
+				"init",
+				"initPersistantObjects"
+			],
+			[
+				"ou",
+				"outLinksTemp"
+			],
+			[
+				"day",
+				"dayNameList"
+			],
+			[
+				"non",
+				"nonHeatingTypes"
+			],
+			[
+				"costPer",
+				"costPerKwhr"
+			],
+			[
+				"gr",
+				"graphWidthChoice"
+			],
+			[
+				"graph",
+				"graphStartmS"
+			],
+			[
+				"change",
+				"changeTime"
+			],
+			[
+				"no",
+				"noOfFakes"
+			],
+			[
+				"un",
+				"unitCtField"
+			],
+			[
+				"gra",
+				"graphWidthmS"
+			],
+			[
+				"apc",
+				"apcctr"
+			],
+			[
+				"selected",
+				"selectedGraphFields"
+			],
+			[
+				"sele",
+				"selectedGraphFields"
+			],
+			[
+				"sel",
+				"selectedGraphFields"
+			],
+			[
+				"fie",
+				"fieldList"
+			],
+			[
+				"m",
+				"measurement"
+			],
+			[
+				"logm",
+				"logMyDays"
+			],
+			[
+				"curm",
+				"curmS"
+			],
+			[
+				"stand",
+				"standingChargeTime"
+			],
+			[
+				"stan",
+				"standingCharge"
+			],
+			[
+				"property",
+				"propertyPath"
+			],
+			[
+				"st",
+				"storeNewNeeded"
+			],
+			[
+				"spli",
+				"splitOffset"
+			],
+			[
+				"newv",
+				"newvalue"
+			],
+			[
+				"new",
+				"newvalue"
+			],
+			[
+				"pr",
+				"progslots"
+			],
+			[
+				"D",
+				"DayStrings"
+			],
+			[
+				"maxBoost",
+				"maxBoostTemp"
+			],
+			[
+				"start",
+				"startingTime"
+			],
+			[
+				"Cap",
+				"CapTimer"
+			],
+			[
+				"attribute",
+				"attributekey"
+			],
+			[
+				"ret",
+				"retValue"
+			],
+			[
+				"boile",
+				"boilerFactor"
+			],
+			[
+				"boil",
+				"boilerFactor"
+			],
+			[
+				"nex",
+				"nextsPointStr"
+			],
+			[
+				"int",
+				"intervalmS"
+			],
+			[
+				"sample",
+				"sampleTime"
+			],
+			[
+				"next",
+				"nextActiveDay"
+			],
+			[
+				"war",
+				"warmupRatio"
+			],
+			[
+				"pre",
+				"preEditThing"
+			],
+			[
+				"Day",
+				"DayStrings"
+			],
+			[
+				"diff",
+				"diffDate"
+			],
+			[
+				"to",
+				"todaymS"
+			],
+			[
+				"e",
+				"editOption"
+			],
+			[
+				"tr",
+				"trimProp"
+			],
+			[
+				"fo",
+				"forEach"
+			],
+			[
+				"id",
+				"idListSplit"
+			],
+			[
+				"homie",
+				"homieDeviceId"
+			],
+			[
+				"Next",
+				"NextSetPoint"
+			],
+			[
+				"cu",
+				"curDatemS"
+			],
+			[
+				"things",
+				"thingsStatus"
+			],
+			[
+				"do",
+				"doZoneRefresh"
+			],
+			[
+				"t",
+				"timeGapSecs"
+			],
+			[
+				"master",
+				"masterThingId"
+			],
+			[
+				"sh",
+				"shortOnceSummary"
+			],
+			[
+				"earlyStart",
+				"EarlyStartStatus"
+			],
+			[
+				"clo",
+				"clonedId"
+			],
+			[
+				"stat",
+				"startTime"
+			],
+			[
+				"earl",
+				"earliestStartMins"
+			],
+			[
+				"te",
+				"tempReadingRate"
+			],
+			[
+				"min",
+				"minsIntoDay"
+			],
+			[
+				"ear",
+				"earlyStartShortInfo"
+			],
+			[
+				"earlyOnce",
+				"earlyOnceThing"
+			],
+			[
+				"early",
+				"earlyOnceId"
+			],
+			[
+				"ev",
+				"eventType"
+			],
+			[
+				"active",
+				"activeDayCount"
+			],
+			[
+				"on",
+				"onTimeStr"
+			],
+			[
+				"earlySt",
+				"earlyStartInfo"
+			],
+			[
+				"zo",
+				"zoneInfo"
+			],
+			[
+				"onTim",
+				"onTimeStr"
+			],
+			[
+				"va",
+				"vaidConfig"
+			],
+			[
+				"one",
+				"oneOrMoreConfigured"
+			],
+			[
+				"con",
+				"configuredDays"
+			],
+			[
+				"sce",
+				"sceneNo"
+			],
+			[
+				"d",
+				"dayNames"
+			],
+			[
+				"boi",
+				"boilerValveRefresh"
+			],
+			[
+				"thisPo",
+				"thisPowerStr"
+			],
+			[
+				"valve",
+				"valveTimeStamp"
+			],
+			[
+				"prof",
+				"profIndex"
+			],
+			[
+				"b",
+				"btoday"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"j",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: View Package Resource"
+			],
+			[
+				"packager",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects working area/home automation/node red js function development/cmd telnet.js",
+		"/C/Projects working area/home automation/node red js function development/Act on incoming messages.js",
+		"/C/Users/Andy/Downloads/daemon.log",
+		"/C/Projects working area/home automation/node red js function development/manageMediaPlayers.js",
+		"/C/Projects working area/home automation/node red js function development/chart lighting.js",
+		"/C/Projects working area/home automation/node red js function development/chart events only.js",
+		"/C/Projects working area/home automation/node red js function development/thingEdit screen handler.js",
+		"/C/Projects working area/home automation/node red js function development/buildThingTableData.js",
+		"/C/Projects working area/home automation/node red js function development/builddwidgetdata.JS",
+		"/Z/Homeautomationbackups/node red 1-1-2023 onwards/30-03-202312-56 and Image/dir listing and config files/etc owfs/owfs.conf",
+		"/Z/Homeautomationbackups/Newinstall 30mar23 onwards/settings.js",
+		"/C/Projects working area/home automation/node red js function development/Act on mysensors messages.js",
+		"/C/Projects working area/home automation/node red js function development/homeremoteplugin.js",
+		"/C/Projects working area/home automation/node red js function development/homeremotestatus.js",
+		"/C/Projects working area/home automation/node red js function development/checkHeatingZone.js",
+		"/Z/Homeautomationbackups/node red 1-1-2023 onwards/30-03-202312-56 and Image/dotnode red files/settings.js",
+		"/C/Projects working area/home automation/node red js function development/chart heating only.js",
+		"/C/Projects working area/home automation/node red js function development/chart compact all things.js",
+		"/C/Projects working area/home automation/node red js function development/chart all things.js",
+		"/C/Users/Andy/AppData/Local/Temp/tmp3D8F.tmp.JS",
+		"/Z/Homeautomationbackups/node red 1-1-2023 onwards/30-03-202312-56 and Image/dir listing and config files/etc_mosquitto/mosquitto.conf",
+		"/Z/Homeautomationbackups/node red 1-1-2023 onwards/30-03-202312-56 and Image/settings.js",
+		"/C/Projects working area/home automation/README.md",
+		"/C/Projects working area/home automation/node red js function development/build database measurement.js",
+		"/C/Projects working area/home automation/node red js function development/homeremoteinit.js",
+		"/C/Projects working area/home automation/node red js function development/handleNodeRedVersionUpdate.js",
+		"/C/Projects working area/home automation/node red js function development/log alexa topic and payload.js",
+		"/C/Projects working area/home automation/node red js function development/saveLastAlexaNameAndId.js",
+		"/C/Projects working area/home automation/node red js function development/randomLightingActivity.js",
+		"/C/Projects working area/home automation/node red js function development/parsen3rgyutilitydata.js",
+		"/C/Projects working area/home automation/node red js function development/checkHeatingZone new derivative.js",
+		"/C/Projects working area/home automation/node red js function development/initNewAllGlobals.js",
+		"/C/Projects working area/home automation/node red js function development/checkInfluxActivity.js",
+		"/C/Projects working area/home automation/node red js function development/faultLogger.js",
+		"/C/Projects working area/home automation/node red js function development/savePersistantConfig.js",
+		"/C/Projects working area/home automation/node red js function development/sub_selectThingForEdit.js",
+		"/C/adb/wiimhome/AndroidManifest.xml",
+		"/C/adb/wiimhome/original/AndroidManifest.xml",
+		"/C/Projects working area/home automation/node red js function development/chartEditConfigTable.js",
+		"/C/Projects working area/home automation/node red js function development/generateConfigEditTable.js",
+		"/C/Users/Andy/Downloads/Tasker.plugin",
+		"/C/Projects working area/home automation/node red js function development/initGlobalConf.js",
+		"/C/Projects working area/home automation/node red js function development/setupThingChart.js",
+		"/C/Projects working area/home automation/node red js function development/SubFormatDataForGraph.js",
+		"/C/Projects working area/home automation/node red js function development/gasmanualcatchup.js",
+		"/C/Projects working area/home automation/node red js function development/electricmanualcatchup.js",
+		"/C/Projects working area/home automation/node red js function development/buildglobalstrings.js",
+		"/C/Users/Andy/Downloads/tmp50CA.tmp.js",
+		"/C/Users/Andy/AppData/Local/Temp/tmp43DD.tmp.js",
+		"/C/Users/Andy/Downloads/AudioZoneTile.xaml",
+		"/C/Projects working area/home automation/node red js function development/command local handler.JS",
+		"/C/Projects working area/home automation/node red js function development/checkTimeoutSetLostContact.js",
+		"/C/Projects working area/home automation/node red js function development/checkRefreshes.js",
+		"/C/Projects working area/home automation/node red js function development/Filter incoming HW msgs.js",
+		"/C/Projects working area/home automation/node red js function development/alexaV3Inputs.js",
+		"/C/Projects working area/home automation/node red js function development/cmd tuya.js",
+		"/C/Projects working area/home automation/arduino firmware and documentation/dimmerTE_PWM/buttons.cpp",
+		"/C/Projects working area/home automation/arduino firmware and documentation/dimmerTE_PWM/dimmerTE_PWM.ino",
+		"/C/Projects working area/home automation/arduino firmware and documentation/dimmerTE_PWM/rfmessages.cpp",
+		"/C/Projects working area/home automation/node red js function development/cmd mysense.js",
+		"/C/Projects working area/home automation/node red js function development/build gui data.js",
+		"/C/Projects working area/home automation/node red js function development/cmd timeevnt.js",
+		"/C/Projects working area/home automation/node red js function development/cmdlooopbackonly.js",
+		"/C/Projects working area/home automation/node red js function development/cmdshelly.js",
+		"/C/Projects working area/home automation/node red js function development/cmdpings.js",
+		"/C/Projects working area/home automation/node red js function development/cmdtasm.js",
+		"/C/Projects working area/home automation/node red js function development/cmd milight.js",
+		"/C/Projects working area/home automation/node red js function development/command handler.JS",
+		"/C/Projects working area/home automation/node red js function development/cmd lwrf.js",
+		"/C/Projects working area/home automation/node red js function development/cmddistribution.js",
+		"/C/Users/Andy/AppData/Local/Temp/tmpDC21.tmp.JS",
+		"/C/Projects working area/home automation/node red js function development/getmysensorstimeecho.js",
+		"/C/Projects working area/home automation/node red js function development/setupThingEditTab.js",
+		"/C/Projects working area/home automation/node red js function development/build database log.js",
+		"/C/Projects working area/home automation/node red js function development/thing logtable actions.js",
+		"/C/temp/capture.txt",
+		"/C/Projects working area/home automation/node red js function development/eventCmdsManager.js",
+		"/C/Users/Andy/AppData/Local/Temp/tmp1230.tmp.JS",
+		"/C/Projects working area/home automation/node red js function development/influxMysensorsDebug.js",
+		"/C/Projects working area/home automation/node red js function development/buildThingheatingtab.js",
+		"/C/Projects working area/home automation/node red js function development/timersmanage.js",
+		"/C/Projects working area/home automation/node red js function development/aaaaa.js",
+		"/C/Projects working area/home automation/node red js function development/command local handler-browser.JS",
+		"/C/Projects working area/home automation/node red js function development/eventearlystartbuild.js",
+		"/C/Projects working area/home automation/node red js function development/eventsBuild.js",
+		"/C/Projects working area/home automation/node red js function development/newFormatWebButtons.js",
+		"/C/Program Files/digiKam/qt.conf",
+		"/C/Program Files/digiKam/data/digikam/database/mysql-global.conf",
+		"/C/Program Files/digiKam/data/digikam/database/dbconfig.xml",
+		"/C/Projects working area/home automation/node red js function development/buildUtilityDisplay.js",
+		"/C/Projects working area/home automation/node red js function development/setupUtiltiesChart.js",
+		"/C/Projects working area/home automation/node red js function development/setupHeatingGraph.js",
+		"/C/Projects working area/home automation/node red js function development/setupEditThings.js",
+		"/C/Projects working area/home automation/node red js function development/requestSmartGasData.js",
+		"/C/Projects working area/home automation/node red js function development/checkforheatingerrors.js",
+		"/C/Projects working area/home automation/node red js function development/clearallsmartelectricdata.js",
+		"/C/Projects working area/home automation/node red js function development/heatingProgramManager.js",
+		"/C/Projects working area/home automation/node red js function development/SubNEWFormatDataForGraph.js",
+		"/C/Projects working area/home automation/node red js function development/setupThingChartapc.js",
+		"/C/Projects working area/home automation/node red js function development/handleFaultTable.js",
+		"/C/Projects working area/home automation/node red js function development/refreshallthings.js",
+		"/C/Projects working area/home automation/node red js function development/selectDataForTimescale.js",
+		"/C/Projects working area/home automation/node red js function development/clearallsmartgasdata.js",
+		"/C/Projects working area/home automation/node red js function development/influxdb example queries.txt",
+		"/C/Projects working area/home automation/node red js function development/Act on mysensors messagesnewnov25.js",
+		"/C/Projects working area/home automation/node red js function development/buildThingTableDatanewnov25.js",
+		"/C/Projects working area/home automation/node red js function development/command handlernewnov25.JS",
+		"/C/Projects working area/home automation/node red js function development/initAllGlobals.js",
+		"/C/Projects working area/home automation/node red js function development/subCleanUpAllProfiles.js",
+		"/C/Users/Andy/AppData/Local/Temp/tmp9C7.tmp.js",
+		"/C/Users/Andy/AppData/Local/Temp/tmp235E.tmp.js",
+		"/C/Users/Andy/AppData/Local/Temp/tmpCF65.tmp.js",
+		"/C/Projects working area/home automation/node red js function development/generateBulkeditTable.js",
+		"/C/Projects working area/home automation/node red js function development/initAllHeatingProfiles.js",
+		"/C/Projects working area/home automation/node red js function development/alexaVSHInputs.js",
+		"/C/Users/Andy/AppData/Local/Temp/tmp265A.tmp.js",
+		"/C/Projects working area/home automation/node red js function development/command local handler gui.JS",
+		"/C/Projects working area/home automation/node red js function development/manageBoilerValveOutputs.js",
+		"/C/Projects working area/home automation/node red js function development/boilerPredictions.js",
+		"/C/Projects working area/home automation/node red js function development/buldRadValveInfo.js",
+		"/C/Projects working area/home automation/node red js function development/checkInstallTestTimer.js",
+		"/C/Projects working area/home automation/node red js function development/sub_buildOverallHeatingStatus.js",
+		"/C/Users/Andy/.odrive/product.conf",
+		"/C/Projects working area/home automation/node red js function development/ManageHeatingZoneOutputs.js",
+		"/C/Projects working area/home automation/node red js function development/homeremoteplugin old.js",
+		"/C/Projects working area/home automation/node red js function development/homeremoteinit old.js",
+		"/C/Projects working area/home automation/node red js function development/changeHeatingDayName.js",
+		"/C/Projects working area/home automation/node red js function development/homeremoteinit - apcold.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handlem",
+			"WIIM/inLink",
+			"getPlayerStatus",
+			".input",
+			"handlem",
+			"boot",
+			"load",
+			"indexOf",
+			"handlem",
+			".btime",
+			"btime",
+			"thisIte",
+			"for",
+			"for(",
+			"nameSt",
+			"thisItem",
+			"namest",
+			"garb",
+			"mqttmsg",
+			"dataObj",
+			"deviceId",
+			"cert",
+			"80",
+			"startingUTCTime",
+			"getMatchingEvent",
+			"setpoint.ti",
+			"valveSt",
+			"splitDat",
+			"valveStickOverride",
+			"valveSt",
+			"profileTime",
+			"lodash",
+			"justclone",
+			"indexof",
+			"handlem",
+			"integral",
+			"intergral",
+			"tracks",
+			"integr",
+			"105",
+			"emedi",
+			"playmod",
+			"handleM",
+			".input",
+			"input",
+			"handlem",
+			"oldTemp",
+			"rateOfChange",
+			"demandTemp",
+			"rateo",
+			"warmUptimeStamp",
+			"valvepowe",
+			"serverOnli",
+			"DEBUGTODB",
+			"sysIds.infl",
+			"PING",
+			"sysIds.redban",
+			"PING",
+			"sysIds",
+			"sysids.re",
+			"redbank",
+			"\"activity\"",
+			"ipAddress",
+			".onof",
+			"PING",
+			"new",
+			"mediap",
+			"41",
+			"powerTimeStamp",
+			"rateOfChange",
+			"shortstat",
+			"ap",
+			"allme",
+			"\"ShortStatus\"",
+			"Differ",
+			"diff",
+			"payl",
+			"clearTrackData",
+			"loop",
+			"loo[",
+			"currentInput",
+			"selectSource",
+			"source",
+			"loop",
+			"node.warn",
+			"loop",
+			"shuffle",
+			".shuffle",
+			"mac",
+			"lms",
+			"console.lo",
+			"sourceNum",
+			"playmode",
+			"unkno",
+			"handleM",
+			"playerma",
+			"nul",
+			"zzz",
+			"fore",
+			"onPol",
+			"handleM",
+			"node.warn",
+			".playm",
+			"samples",
+			"samplesi",
+			"bitr",
+			"sourceFriendly",
+			"node.warn",
+			"substring",
+			"handleM",
+			"sampleRate",
+			"buildEntry",
+			"parsein",
+			"buildE",
+			"sourceF",
+			".inpu",
+			".tosli",
+			"tosLinkupnpPort",
+			"toslinkip",
+			"toslink",
+			"mediap",
+			"saveStatusKey",
+			"handleMediaPlayerMsg",
+			"getWiimMeta",
+			"digitalIn",
+			"toslink.",
+			"amazon",
+			"bluet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"getupnpMeta",
+			"player[0].",
+			"playerIsActive",
+			"tosLinkStatus",
+			"getTelnetValue",
+			"\"",
+			"subTypeNum",
+			"childIdNum",
+			"messTypeNum",
+			"messTypeStr",
+			"theThing",
+			"msg.id",
+			"curThing.",
+			"tempThing",
+			"thisId",
+			"msgTimeoutmS",
+			"outPayload",
+			"messageType",
+			"subType",
+			"childSensorId",
+			"msgMQTT",
+			"msgDb",
+			"gasThing.",
+			"msg.gas",
+			"rebuildAllThings",
+			"thingEditControl.graphWidthmS",
+			"thingEditControl.graphStartmS",
+			"thingEditControl.graphStartmS\n",
+			"oldElectricEntries",
+			"mydaysfields",
+			"outMsgMydays",
+			"fields[fieldPrefix+ \"zz\"]",
+			"let ",
+			"/gui/",
+			"/alexa",
+			"refreshEditScreen",
+			"trimProp",
+			"TemperatureMeasurement",
+			"EarlyStartStatus",
+			"",
+			"thisStatus.",
+			"znNextMode",
+			"thingStatus.earlyStartActive",
+			"thingStatus.nextsPoint",
+			"thingStatus.sPoint",
+			"thingStatus.nextsPointTime",
+			"thingStatus.znNextMode",
+			"thingStatus.znMode",
+			"modes.nextMode",
+			"modes.nowMode",
+			"thingsStatus",
+			"setPointTimeGapMins",
+			"SplitTimeString",
+			"IconColor",
+			"ZoneMode",
+			"Demand",
+			"SetPoint",
+			"NextSetPoint",
+			"NextSetPointTime",
+			"IconColor",
+			"SceneName",
+			"ShortStatus",
+			"timerRunning",
+			"nextSetpoint",
+			"nextSetpointTime",
+			"setPoint",
+			"",
+			"alexaPLoad",
+			"alexaDirective",
+			"alexacommand",
+			".earlyStartArmed",
+			"preHeatMode",
+			"stopzzHeatmS",
+			"startzzHeatmS",
+			"boilerValveRefresh",
+			"boilerThing.onoff",
+			"boilerThing.shortStatus",
+			"waterValveThing.onoff",
+			"radValveThing.demand",
+			"waterValveThing.demand",
+			"refreshTotals",
+			"dateStrings.timeLeft",
+			"dateStrings.date",
+			"timeLeft.timeLeftString",
+			"homieOneLineStatus",
+			"profiles",
+			"Matchi",
+			".onoff",
+			"calcIconColor",
+			"boxColor",
+			"iconColor",
+			"thisStatus",
+			"idsHEATING",
+			"thingStatus",
+			"heatingBoostStep",
+			"boostStep",
+			"bulkEditInfo.list",
+			"valveStickOverride",
+			"\"",
+			"ipAddress",
+			"BoilerHoldOff",
+			"historyList",
+			"'",
+			"heatingHysteresis",
+			"Water",
+			"heatingZoneMinTemp",
+			"heatingMaxPreheatMins",
+			"heatingMinPreheatMins",
+			"heatingBoilerFactor",
+			"heatingValveCoolDownMins",
+			"heatingValveWarmUpCt",
+			"deskHeightMusicHoldSecs",
+			"deskHeightOffsetmm",
+			"electricMetercalibAmpsLow",
+			"electricMeterHalfCycles",
+			"electricMeterPowerSecs",
+			"electricMeterTempSecs",
+			"globalConf",
+			"electricMeterPulsesPU",
+			"electricMeterPencePU",
+			"electricUpdateSecs",
+			"electricMeterUnits",
+			"frostStat",
+			"timesOfDay.boolSunset",
+			"timesOfDay.boolLateEvening",
+			"timesOfDay.boolEarlyEvening",
+			"timesOfDay.boolNight",
+			"timesOfDay.minsDusk"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "route65project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 323.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
