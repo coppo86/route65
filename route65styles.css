@@ -14,10 +14,10 @@ body, html {
   border-width: 0.7vmax;
   outline: none;
   cursor: pointer;
-  padding: 10px 10px;
+  padding: 7px 10px;
   font-size: 2.4vmax;
   width: 33%;
-  height: 11vmax;
+  height: 10vmax;
 }
 
 .tablink:hover {
