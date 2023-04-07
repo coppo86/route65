@@ -11,12 +11,13 @@ body, html {
   color: white;
   float: left;
   border-style: ridge;
-  border-width: 1vmax;
+  border-width: 0.7vmax;
   outline: none;
   cursor: pointer;
-  padding: 14px 16px;
-  font-size: 3vmax;
+  padding: 10px 10px;
+  font-size: 2.5vmax;
   width: 33%;
+  height: 7vmax;
 }
 
 .tablink:hover {
