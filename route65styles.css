@@ -28,24 +28,38 @@ body, html {
   display: none;
   padding: 100px 20px;
   height: 100%;
+  font-size: 1vmax;
 }
 
 img.wrap {float: right}
 
 
+
+p {
+  font-size: 3vmin;
+}
+
+h3 {
+  font-size: 6vmin;
+}
+
 a:link {
    color: greenyellow;
    background-color: transparent;
    text-decoration: none;
+  font-size: 3vmax;
+  text-decoration-line: underline;
 }
 a:visited {
    color: deepskyblue;
    background-color: transparent;
    text-decoration: none;
+  font-size: 5vmax;
 }
 a:active {
    color: yellow;
    background-color: transparent;
+  font-size: 5vmax;
 }
 
 
