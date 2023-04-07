@@ -10,12 +10,13 @@ body, html {
   background-color: #555;
   color: white;
   float: left;
-  border: none;
+  border-style: ridge;
+  border-width: 1vmax;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
-  font-size: 17px;
-  width: 20%;
+  font-size: 3vmax;
+  width: 33%;
 }
 
 .tablink:hover {
