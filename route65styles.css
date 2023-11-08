@@ -24,8 +24,13 @@ body, html {
   background-color: #777;
 }
 
+.advert {
+  transform:rotate(-2deg);
+}
+
 .advert:hover {
   width: 70%;
+  transform:rotate(5deg);
 }
 
 
