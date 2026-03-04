@@ -33,6 +33,15 @@ body, html {
   transform:rotate(5deg);
 }
 
+.smalladvert {
+  transform:rotate(-4deg);
+}
+
+.smalladvert:hover {
+  width: 50%;
+  transform:rotate(5deg);
+}
+
 
 /* Style the tab content (and add height:100% for full page content) */
 .tabcontent {
